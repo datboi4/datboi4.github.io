@@ -77,8 +77,8 @@ li{
 }
 .zoom img
 {
- width:548px;
- height:548px;
+ width:210px;
+ height:210px;
  -webkit-transition:all 2s ease;
  -moz-transition:all 2s ease;
  -ms-transition:all 2s ease;
@@ -87,8 +87,8 @@ li{
 }
 .zoom img:hover
 {
- width:1096px;
- height:1096px;
+ width:420px;
+ height:420px;
 }
 .zoom:hover
 {
